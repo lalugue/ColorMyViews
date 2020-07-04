@@ -11,7 +11,7 @@ An exercise on Layout concepts and design.
 
 # Screenshots
 
-![screen_1][1]       ![screen_2][2]
+![screen_1][1] &nbsp;&nbsp;&nbsp;&nbsp; ![screen_2][2]
 
 [1]: ./README_assets/screen_1.png
 [2]: ./README_assets/screen_2.png
